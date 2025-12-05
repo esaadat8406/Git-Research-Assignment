@@ -1,0 +1,1 @@
+git pull is a command that updates your local repository with the latest changes from a remote repository (like GitHub).

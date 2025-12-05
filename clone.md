@@ -1,0 +1,1 @@
+A clone is a local copy of a Git repository that lives on your computer.
